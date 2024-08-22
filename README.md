@@ -11,3 +11,4 @@ f(x) = frac\{1}{sqrt{2/pi}
 
 
 1+1
+another practice of using git & github
